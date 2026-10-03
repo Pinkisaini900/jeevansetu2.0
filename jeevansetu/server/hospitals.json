@@ -1,0 +1,7 @@
+[
+  { "id": "h1", "name": "City Heart Hospital", "phone": "919999900001", "lat": 26.861, "lng": 80.912, "sp": "cardiology" },
+  { "id": "h2", "name": "Lucknow Cardio Care", "phone": "919999900002", "lat": 26.870, "lng": 80.990, "sp": "cardiology" },
+  { "id": "h3", "name": "Apex Cardiac Centre", "phone": "919999900003", "lat": 26.825, "lng": 80.935, "sp": "cardiology" },
+  { "id": "h4", "name": "Sanjeevani Heart Institute", "phone": "919999900004", "lat": 26.890, "lng": 80.950, "sp": "cardiology" },
+  { "id": "h5", "name": "General Multispeciality", "phone": "919999900005", "lat": 26.840, "lng": 80.950, "sp": "general" }
+]

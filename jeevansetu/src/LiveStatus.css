@@ -1,0 +1,8 @@
+.js-live{max-width:480px;margin:auto;background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:18px;padding:18px;box-shadow:var(--sh)}
+.js-live h2{margin:0 0 8px;font-size:18px}
+.js-step{padding:10px 0;font-size:14.5px;color:var(--mu);border-bottom:1px solid var(--bd);overflow-wrap:anywhere}.js-step:last-of-type{border-bottom:0}
+.js-step.on{color:var(--tx);font-weight:600}
+.js-eta{font-size:26px;font-weight:800;color:var(--red)}
+.js-map{width:100%;background:var(--map);border-radius:12px;display:block;margin-top:12px}
+.js-rd{stroke:var(--rd);stroke-width:6}
+.js-lbl{fill:var(--tx);font-weight:600;paint-order:stroke;stroke:var(--map);stroke-width:4px;stroke-linejoin:round}
